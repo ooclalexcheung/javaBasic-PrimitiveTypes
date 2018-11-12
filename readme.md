@@ -16,10 +16,13 @@ Each repository contains a gradle java project with a number of unit tests. The 
 The 4 questions are:
 
 1. What is the knowledge point of the test? Where is the offical document to the knowledge point?
+Ans: Java Basic Primitive Data Type https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 1. Why the test failed at first?
+Ans: they are not the same variables
 1. Why you corrected the test that way?
+Ans: Fnd the varible with true value
 1. Do you have further questions on this knowledge point?
-
+Ans: No
 ## Example
 
 Let's take a look at an example:
